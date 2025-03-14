@@ -45,7 +45,7 @@ The California Housing dataset contains information about house prices and vario
 
 Below are example training curves showing how the training and validation loss, as well as MAE, change over epochs:
 
-![Training Metrics](images/metrics.png)
+![ca_graph](https://github.com/user-attachments/assets/c03b9e40-7d47-4d0c-850f-40a640c3ca39)
 
 ---
 
@@ -61,9 +61,8 @@ A higher R² (close to 1.0) indicates a good fit, while the relatively low MAE s
 
 ### Predictions vs. Actual
 
-Below is a plot comparing actual vs. predicted values and training values for a the test data:
+Below is a plot comparing actual vs. predicted values for a the test data:
 
-![ca_graph](https://github.com/user-attachments/assets/c03b9e40-7d47-4d0c-850f-40a640c3ca39)
 ![ca_match](https://github.com/user-attachments/assets/18f0d98f-638c-42cd-87f1-e160361d64fb)
 
 
